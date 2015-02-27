@@ -5,6 +5,8 @@ Current Kamailio release: 4.2.3
 
 Current Fedora release: 21
 
+https://registry.hub.docker.com/u/alezzandro/kamailio-latest-stable/
+
 
 # Testing
 For testing it please download it through DockerHub:
