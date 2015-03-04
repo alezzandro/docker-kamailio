@@ -2,7 +2,7 @@ FROM fedora
 MAINTAINER Alessandro Arrichiello "alezzandro@gmail.com"
 
 # Download the latest stable repository available
-RUN curl -s http://download.opensuse.org/repositories/home:/kamailio:/v4.2.x-rpms/Fedora_21/home:kamailio:v4.2.x-rpms.repo -o /etc/yum.repos.d/kamailio-v4.2.x.repo
+RUN curl -s http://download.opensuse.org/repositories/home:/kamailio:/v4.2.x-rpms/Fedora_21/home:kamailio:v4.2.x-rpms.repo -o /etc/yum.repos.d/kamailio-latest.repo
 
 # Install alle the kamailio packages (this will include all the modules)
 RUN yum install -y kamailio*
