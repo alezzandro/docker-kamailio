@@ -13,3 +13,4 @@ mer 11 mar 2015, 17.20.09, CET: Updated repository! Base docker image is Fedora 
 lun 16 mar 2015, 23.31.20, CET: Errors grabbing latest kamailio repo file. Tried latest Fedora and previous (20).
 lun 16 mar 2015, 23.40.10, CET: Updated repository! Base docker image is Fedora 21, Kamailio lastest stable available is: 4.2.3
 lun 23 mar 2015, 13.20.10, CET: Updated repository! Base docker image is Fedora 21, Kamailio lastest stable available is: 4.2.3
+sab 28 mar 2015, 02.50.17, CET: Updated repository! Base docker image is Fedora , Kamailio lastest stable available is: 
